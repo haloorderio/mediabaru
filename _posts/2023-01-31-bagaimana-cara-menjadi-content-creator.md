@@ -10,9 +10,9 @@ tags: [kreatif, karir]
 
 Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
 
-Bahkan ada yang bertanya-tanya: **Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**
+Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://mediabaru.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
 
-Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud Content Creator itu apa, sih?!
+Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud dengan Content Creator itu apa, sih?!
 
 Kalo kamu mengira Content Creator itu semacam selebgram, publik figur, musisi terkenal atau selebriti, maka itu **nggak sepenuhnya tepat!**
 
@@ -139,8 +139,8 @@ Kamu bisa jualan melalui link affiliasi. **Kamu jualan, *follower* membeli. Kamu
 
 Sebagai seorang Content Creator yang sudah siap memonetisasi karyanya, tentu **butuh toko online atau landing page yang diakses kenceng dan nggak mudah down karena dibanjiri traffic super banyak**. Percayakan dengan [**Orderio.id**](https://orderio.id).
 
-Kamu nggak perlu khawatir lagi karena tingginya traffic ke website atau landing page. Peluang kamu sebagai Content Creator untuk dapet penghasilan melalui jualan online atau komisi link affiliasi tetap terbuka lebar.
+Kamu nggak perlu khawatir lagi karena tingginya _traffic_ ke website atau landing page. Peluang kamu sebagai Content Creator untuk dapet penghasilan melalui jualan online atau komisi link affiliasi tetap terbuka lebar.
 
-Sudah siap jadi Content Creator?
+Sudah siap jadi [**Content Creator?**](https://mediabaru.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
 
 Selamat berkarya, teman!
