@@ -117,7 +117,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "berita baru hari ini, info terbaru hari ini, info hari ini, berita viral hari ini, info viral terkini, berita terkini"
+keywords: "berita baru hari ini, info terbaru hari ini, info hari ini, berita viral hari ini, info viral terkini, berita terkini"
 
 ######################################
 # --- Colours / background image --- #
