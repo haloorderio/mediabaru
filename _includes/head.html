@@ -134,7 +134,7 @@
   <meta property="twitter:description" content="{{ description }}">
 
   {% if img != "" %}
-  <meta name="twitter:image" content="{{ img | absolute_url }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ img }}">
   {% endif %}
 
   {% include matomo.html %}
