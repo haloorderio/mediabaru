@@ -2,7 +2,7 @@
 layout: post
 title: Akhir Dunia
 subtitle: Semua makhluk akan tiba masa habisnya
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/ogp.jpeg
 thumbnail-img: /assets/img/pexels-vlada-karpovich-4050290.jpg
 share-img: /assets/img/pexels-pnw-production-9218702.jpg
 tags: [kreatif, karir]
