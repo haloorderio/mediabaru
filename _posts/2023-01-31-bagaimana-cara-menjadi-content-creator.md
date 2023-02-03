@@ -141,6 +141,8 @@ Sebagai seorang Content Creator yang sudah siap memonetisasi karyanya, tentu **b
 
 Kamu nggak perlu khawatir lagi karena tingginya _traffic_ ke website atau landing page. Peluang kamu sebagai Content Creator untuk dapet penghasilan melalui jualan online atau komisi link affiliasi tetap terbuka lebar.
 
+Kalo kamu serius mau jadi Content Creator yang menghasilkan, ikuti [**Kelas Content Creator: Belajar dari Nol hingga Profesional dengan klik di sini**](https://habiskerja.com/kelas-content-creator/?ref=muhnurulhakim&campaign=KelasContentCreator).
+
 Sudah siap jadi [**Content Creator?**](https://mediabaru.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
 
 Selamat berkarya, teman!
