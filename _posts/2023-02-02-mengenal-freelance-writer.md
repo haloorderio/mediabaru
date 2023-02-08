@@ -4,7 +4,7 @@ layout: post
 title: Mengenal Profesi Freelance Writer di Indonesia dan Potensinya
 subtitle: Profesi ini masih basah karena banyak permintaan di Indonesia
 cover-img: /assets/img/photo-1555421689-491a97ff2040.jpeg
-thumbnail-img: /assets/img/photo-1555421689-491a97ff2040.jpeg
+thumbnail-img: 
 share-img: /assets/img/photo-1664575196851-5318f32c3f43.jpeg
 tags: [kreatif, karir]
 
