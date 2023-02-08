@@ -137,7 +137,8 @@ keywords: "berita baru hari ini, info terbaru hari ini, info hari ini, berita vi
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFFFFF"
+# ini versi asli: navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
