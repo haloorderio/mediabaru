@@ -139,7 +139,8 @@ keywords: "berita baru hari ini, info terbaru hari ini, info hari ini, berita vi
 
 navbar-col: "#FFFFFF"
 # ini versi asli: navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#333333"
+# navbar-text-col: "#404040"
 navbar-border-col: "#FFFFFF"
 # navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -150,7 +151,8 @@ hover-col: "#0085A1"
 footer-col: "#FFFFFF"
 # footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#333333"
+# footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
