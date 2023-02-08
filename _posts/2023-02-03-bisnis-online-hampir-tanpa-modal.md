@@ -4,7 +4,6 @@ layout: post
 title: Ingin Punya Bisnis Sendiri? Coba 3 Bisnis Online (Hampir) Tanpa Modal Ini
 subtitle: Pake Smartphone pun bisa!
 cover-img: /assets/img/photo-1423666639041-f56000c27a9a.jpeg
-thumbnail-img: /assets/img/photo-1423666639041-f56000c27a9a.jpeg
 share-img: /assets/img/photo-1423666639041-f56000c27a9a.jpeg
 tags: [bisnis, karir]
 
