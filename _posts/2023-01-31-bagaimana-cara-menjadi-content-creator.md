@@ -3,7 +3,7 @@ layout: post
 title: Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?
 subtitle: Inilah langkah-langkah menjadi Content Creator yang mungkin kamu belum tahu
 cover-img: /assets/img/photo-1552010099-5dc86fcfaa38.jpeg
-thumbnail-img: /assets/img/photo-1526566661780-1a67ea3c863e.jpeg
+thumbnail-img: 
 share-img: /assets/img/photo-1581464647110-26e129ce2d02.jpeg
 tags: [kreatif, karir]
 ---
