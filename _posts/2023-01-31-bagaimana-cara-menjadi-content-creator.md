@@ -10,7 +10,7 @@ tags: [kreatif, karir]
 
 Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
 
-Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://mediabaru.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
+Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://mediabaru.orderio.my.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
 
 Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud dengan Content Creator itu apa, sih?!
 
@@ -137,12 +137,12 @@ Nggak perlu bingung mau jualan produk atau jasa apa, **karena kamu udah megang t
 
 Kamu bisa jualan melalui link affiliasi. **Kamu jualan, *follower* membeli. Kamu dapet komisi, *follower* dapet solusi.** Itulah simbiosis mutualisme.
 
-Sebagai seorang Content Creator yang sudah siap memonetisasi karyanya, tentu **butuh toko online atau landing page yang diakses kenceng dan nggak mudah down karena dibanjiri traffic super banyak**. Percayakan dengan [**Orderio.id**](https://orderio.id).
+Sebagai seorang Content Creator yang sudah siap memonetisasi karyanya, tentu **butuh toko online atau landing page yang diakses kenceng dan nggak mudah down karena dibanjiri traffic super banyak**. Percayakan dengan [**Orderio.id**](https://orderio.my.id).
 
 Kamu nggak perlu khawatir lagi karena tingginya _traffic_ ke website atau landing page. Peluang kamu sebagai Content Creator untuk dapet penghasilan melalui jualan online atau komisi link affiliasi tetap terbuka lebar.
 
 Kalo kamu serius mau jadi Content Creator yang menghasilkan, ikuti [**Kelas Content Creator: Belajar dari Nol hingga Profesional dengan klik di sini**](https://habiskerja.com/kelas-content-creator/?ref=muhnurulhakim&campaign=KelasContentCreator).
 
-Sudah siap jadi [**Content Creator?**](https://mediabaru.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
+Sudah siap jadi [**Content Creator?**](https://mediabaru.orderio.my.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
 
 Selamat berkarya, teman!
