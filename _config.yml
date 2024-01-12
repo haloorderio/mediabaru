@@ -19,7 +19,7 @@ author: Admin
 # --- Tambahan 31 Januari 2023 --- #
 ###############################################
 
-url: "https://mediabaru.orderio.id"
+url: "https://mediabaru.orderio.my.id"
 
 ###############################################
 # --- Mau nyalain space iklan --- #
@@ -34,9 +34,9 @@ ads: true
 navbar-links:
   About Us: "aboutme"
   Rekomendasi:
-    - Bikin Toko Online: "https://orderio.id"
+    - Bikin Toko Online: "https://orderio.my.id"
     - Undangan Nikah Digital: "https://maumantenan.com"
-    - Mukena Terbaru: "https://mukenalarizka.com"
+    - Mukena Terbaru: "https://mukenalarizka.orderio.my.id"
 
 ################
 # --- Logo --- #
