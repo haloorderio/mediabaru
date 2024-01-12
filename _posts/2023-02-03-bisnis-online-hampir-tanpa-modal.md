@@ -10,7 +10,7 @@ tags: [bisnis, karir]
 
 ---
 
-Tahukah kamu, ketika teknologi semakin berkembang pesat, artinya persaingan di dunia digital pun makin berdarah-darah. Di saat yang sama, banyak orang berlomba-lomba [**bikin bisnis online**](https://mediabaru.orderio.id/2023-02-03-bisnis-online-hampir-tanpa-modal/).
+Tahukah kamu, ketika teknologi semakin berkembang pesat, artinya persaingan di dunia digital pun makin berdarah-darah. Di saat yang sama, banyak orang berlomba-lomba [**bikin bisnis online**](https://mediabaru.orderio.my.id/2023-02-03-bisnis-online-hampir-tanpa-modal/).
 
 Ketika platform media sosial bertambah, maka di situlah perhatian netizen diperebutkan.
 
@@ -55,7 +55,7 @@ Semakin banyak dan semakin loyal pembaca blog kamu, maka kamu berpeluang memilik
 
 * * *
 
-Kamu memiliki [**3 opsi tersebut untuk membuka bisnis online yang hampir tanpa modal**](https://mediabaru.orderio.id/2023-02-03-bisnis-online-hampir-tanpa-modal/). Kalo mau cari *insight*, baca artikel tentang [**ide kerjaan yang cocok kamu coba di tahun 2023**](https://mediabaru.orderio.id/2023-01-30-ide-kerjaan-2023/).
+Kamu memiliki [**3 opsi tersebut untuk membuka bisnis online yang hampir tanpa modal**](https://mediabaru.orderio.my.id/2023-02-03-bisnis-online-hampir-tanpa-modal/). Kalo mau cari *insight*, baca artikel tentang [**ide kerjaan yang cocok kamu coba di tahun 2023**](https://mediabaru.orderio.my.id/2023-01-30-ide-kerjaan-2023/).
 
 Modal utama yang dibutuhkan bukan uang, melainkan kemampuan komunikasi dan jualan kamu. Kamu perlu menghubungi produsen atau suplier agar bisa melakukan dropship produk atau jasa mereka. Bahkan perlu bernegosiasi untuk mendapatkan penawaran dropship terbaik dari mereka jika diperlukan.
 
